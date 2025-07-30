@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'EtPack ERP Admin',
-  description: 'EtPack ERP Admin 07212025',
+  description: 'EtPack ERP Admin New Design Latest',
   generator: 'v+c',
 }
 
